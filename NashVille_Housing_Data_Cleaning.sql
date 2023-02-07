@@ -1,3 +1,4 @@
+-- Skills used: CTE, aggregate functions, substrings, joins, table creation/update, case statements
 -- Cleaning data with SQL queries
 
 SELECT * 
